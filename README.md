@@ -15,7 +15,7 @@ With the crashing crisis I have been experiencing, I found removing these files 
 2. Increase start up times by 11 seconds which can save your damn life!
 
 ## How to use
-1. Download the latest release of the program
+1. Download the [latest release](https://github.com/TheBoogle/PUBGIntroRemover/releases/latest) of the program
 2. Open the program and it should ask you for your PUBG directory, if its not already automatically highlighted, you can navigate to it and select it.
 3. Press the remove intros button.
 
